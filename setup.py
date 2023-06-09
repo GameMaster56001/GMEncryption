@@ -20,5 +20,5 @@ setup(
   classifiers=classifiers,
   keywords='encryption', 
   packages=find_packages(),
-  install_requires=['string', 'random'] 
+  install_requires=[] 
 )
