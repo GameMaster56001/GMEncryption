@@ -13,7 +13,7 @@ setup(
   version='0.0.1',
   description='A new type of way of encoding',
   long_description=open('README.txt').read(),
-  url='',  
+  url='https://github.com/GameMaster56001/GMEncryption/edit/main/setup.py',  
   author='GM_member229112',
   author_email='hexe82703+alt10@gmail.com',
   license='MIT', 
