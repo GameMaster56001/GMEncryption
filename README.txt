@@ -2,6 +2,8 @@ This is a new kind of encryption method! You can use it to for example encode a 
 
 Here is a example of how to use it:
 
+```
+python
 from GMEncryption import GMEncryption
 
 
@@ -15,6 +17,7 @@ decrypted_text = re.decrypt(encrypted_text)
 print('Original text:', text)
 print('Encrypted text:', encrypted_text)
 print('Decrypted text:', decrypted_text)
+```
 
 
 Hope you enjoy it!
